@@ -1,5 +1,4 @@
-# 基于 CycleGAN 和 Stylegan2 网络模型在图像转换/生成的优化微调
-
+# CycleGAN 和 Stylegan2 的优化微调
 
 
 ## 实验环境
